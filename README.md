@@ -2,12 +2,12 @@
 c-- is a **python** framework to make python like c++ like
 python:
 ```
-py
+
 print("hello world")
 ```
 c-- :
 ```
-py
+
 from cmm import console,repeat,var
 class main:
   def __init__(self):
